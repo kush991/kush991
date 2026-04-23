@@ -25,7 +25,7 @@
 
 ### 💼 Professional Experience
 - **Senior DevOps / SRE Engineer** — Mindlance @ Boeing (Nov 2025 - Present)
-- **Senior DevOps Engineer / SRE** — Concentra (Sep 2022 - Present)
+- **Senior DevOps Engineer / SRE** — Concentra (Sep 2022 - Nov 2025)
 - **DevOps / Platform Engineer** — Jabil (Mar 2022 - Sep 2022)
 - **Cloud / DevOps Engineer** — Matheson (Feb 2018 - Mar 2022)
 - **Linux System Administrator** — Globacom Telecommunication (Feb 2015 - Feb 2018)
